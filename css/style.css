@@ -1,0 +1,59 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #efeee7;
+	font-color: #333333;
+
+}
+
+header {
+	background-color: d21034;
+
+}
+
+h1 {
+	background-color: #333333;
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 24px
+	width: 1024px;
+	margin: 0 auto;
+	padding-left: 40px;
+}
+
+#main-bio, #contact-info, #bio-image {
+	float: left;
+
+}
+
+#main-bio {
+	width: 70%;
+}
+
+#contact-info {
+	width: 30%;
+	line-height: 1.5em;
+
+	link-color: #d21034;
+}
+
+.container {
+	text-align: center;
+	color: white;
+
+}
+
+p {
+	margin-top: -200px;
+	margin-bottom: 100px;
+	margin-right: 10px;
+	margin-left: 250px;
+
+	
+}
+
+#bio-image {
+	float: left;
+}
