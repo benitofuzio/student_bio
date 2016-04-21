@@ -46,14 +46,13 @@ h2 {
 }
 
 p {
-	margin-top: -200px;
-	margin-bottom: 100px;
-	margin-right: 10px;
-	margin-left: 250px;
+	margin-left: 400px
 
 	
 }
 
 #bio-image {
-	float: left;
+	padding-left: 40px;
+
+
 }
