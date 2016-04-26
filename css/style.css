@@ -1,3 +1,9 @@
+img {
+	width: 250px;
+	height: 250px;
+	border: 1px;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -46,7 +52,7 @@ h2 {
 }
 
 p {
-	margin-left: 400px
+	margin-left: 300px
 
 	
 }
